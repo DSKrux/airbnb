@@ -1,0 +1,3 @@
+C:\Users\admin\Anaconda2\envs\Tableau-Python-Server\Lib\site-packages\tabpy_server
+
+https://community.tableau.com/thread/236539
